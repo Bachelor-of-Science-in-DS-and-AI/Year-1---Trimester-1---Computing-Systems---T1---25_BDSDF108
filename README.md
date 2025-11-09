@@ -4,7 +4,7 @@ Course Introduction
 
 Course Description
 
-  - This introductory course provides a cross-sectional understanding of Computing Systems from a bottom-up perspective - starting with the hardware components of a stand-alone computer, the software (i.e. Operating Systems and virtual environments) that manage such hardware and enable execution of other software (i.e. programs), leading towards the supporting landscape of systems for a high-level programmer (source code repositories, profilers and debuggers, co-processors for offloading niche computation, mobile/embedded computers) and concluding with large-scale computing systems (distributed systems and Cloud Computing).
+This introductory course provides a cross-sectional understanding of Computing Systems from a bottom-up perspective - starting with the hardware components of a stand-alone computer, the software (i.e. Operating Systems and virtual environments) that manage such hardware and enable execution of other software (i.e. programs), leading towards the supporting landscape of systems for a high-level programmer (source code repositories, profilers and debuggers, co-processors for offloading niche computation, mobile/embedded computers) and concluding with large-scale computing systems (distributed systems and Cloud Computing).
 
 Learning Outcomes
   - Explain the components - along with their functions - of a computing system/environment.
