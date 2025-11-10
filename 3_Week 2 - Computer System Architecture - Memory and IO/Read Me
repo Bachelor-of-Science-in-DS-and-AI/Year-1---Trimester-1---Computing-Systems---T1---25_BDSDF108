@@ -1,1 +1,10 @@
+Module Description:
+This module explores how Memory and I/O help in improving Architecture performance.
 
+Learning Objectives: 
+By the end of this module, you will be able to:
+- Locality of Reference - Spatial and Temporal Localities.
+- Primary Memory - RAM [SRAM and DRAM] and ROM.
+- Secondary Memory - HDD and SSD.
+- SSD as Primary memory and SSD as secondary memory.
+- Network and I/O.
