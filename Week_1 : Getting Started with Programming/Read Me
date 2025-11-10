@@ -1,1 +1,13 @@
 
+Module Description
+
+This module introduces learners to the fundamental concepts of computing Systems. It covers the components of computers - both hardware 
+and software. It also discusses different architectural models like Von-Neumann, Harvard and Modified Harvard architectures. 
+
+Learning Outcomes
+
+By the end of this module, you will be able to: 
+- Understand different components of a computer and what the Stored Program concept means.
+- Based on the components and their interconnections, how various architectures like Von-Neumann, Harvard and Modified Harvard can be designed.
+- How these architectures fit with various architectural models like Single cycle, multi-cycle and pipelined architectures.
+- What are the main diffences between the different Intel families of  processors (13, 15, 17 and i9)
