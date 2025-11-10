@@ -1,0 +1,13 @@
+Module Description
+This module introduces the concept of virtuaization, illustrates the concepts with examples at different levels and highlights a commonly used 
+models of  virtualization. The module starts by differentiating between abstraction and virtualization, introduces notions of physical vs virtual
+resources as well as physical vs interfaces and how these manifest in the context of computer systems. Classification of virtual environments as 
+process virtual machines and system virtual machines is explained along with their primary function of isolation. High-level Language Virtual 
+Machines as a special case of Process Virtual Machines, and Python Virtual Environment as an example of the same are explained further. Containers 
+as light-weight System Virtual Machines are introduced.            
+
+Module-level Learning Objectives
+By the end of this module, you will be able to:
+- Explain the difference between abstraction and virtualization,
+- Argue that a given virtual environment is of a particular kind, and
+- Run Language Virtual Machines and Containers on your desktop/laptop computers for specific purposes.             
