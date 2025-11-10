@@ -1,0 +1,8 @@
+Module Description
+This module covers all constructs like conditional, looping etc. in Shell scripting. It also covers file handling in Shell scripting. 
+The module solves multiple problems using Shell scripting.
+
+Module-level Learning Objectives
+By the end of this module, you will be able to
+- Write programs with conditional statements, looping constructs and files in Shell Script [Should it also be interacting with the 
+  OS e.g. interacting with the directory structure or (current) processes?]
