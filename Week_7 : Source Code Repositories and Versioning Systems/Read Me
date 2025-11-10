@@ -1,1 +1,13 @@
+Module Description
 
+This module motivates the need for a common repository of code to be used by a team of developers as well as  the need for  developing and 
+tracking versions of the same software. The module briefly describes and explains the features of typical (software) tools/technologies used 
+as code repository systems and for versioning systems
+
+Learning Objectives
+
+By the end of this module, you will be able to:
+- Articulate the need for source-code repositories
+- Explain the typical uses of a code repository for a distributed team of developers
+- Articulate the need for a versioning system
+- Explain the typical uses of a versioning system by developers
