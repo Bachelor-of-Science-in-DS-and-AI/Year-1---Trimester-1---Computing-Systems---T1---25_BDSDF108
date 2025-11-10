@@ -1,1 +1,9 @@
+Module Description
+This module introduces GPUs  as co-processors, and the GPGPU architecture.
 
+Learning Objectives 
+By the end of this module, you will be able to:
+- Explain the architecture of GPUs and how they differ from CPUs
+- Understand and articulate - qualitatively - how parallel execution works in GPUs
+- Estimate performance of a multi-threaded program in a given GPU
+- (Re-)structure a given program for high performance parallel execution in a GPU
