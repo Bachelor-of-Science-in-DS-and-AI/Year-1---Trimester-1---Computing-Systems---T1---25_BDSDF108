@@ -1,6 +1,6 @@
 # Year 1 - Trimester 1 - Computing Systems T1_25_BDSDF108
 
-<b> Course Introduction </b>
+<b> COURSE INTRODUCTION </b>
 
 ✅ Course Description
 
