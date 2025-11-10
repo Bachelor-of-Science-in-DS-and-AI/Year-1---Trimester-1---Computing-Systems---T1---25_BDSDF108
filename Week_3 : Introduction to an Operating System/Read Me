@@ -1,1 +1,13 @@
+Module Description
 
+This module builds a strong foundation in Operating System basics, commands and command line interfaces. The module also covers basic UNIX commands 
+like ls, pwd, cd, mkdir, passwd, man, info, date and cal. The module also covers text processing commands like cat, cp, mv, rm, chmod, IO redirection, 
+filters - wc, sort, head, tail, grep,find, piping, hard link, and symbolic link. The module also covers how to write Shell scripts with shell environment 
+and variables.
+
+Module-level Learning Objectives
+
+By the end of this module, you will be able to:
+- Understand working with Linux Operating System, command and commandline interfaces. How to take differnt types of data from commandline.
+- Working of basic UNIX commands with various options like ls, pwd, cd, mkdir, passwd, man, info, date and cal.
+- Working of text processing commands like cat, cp, mv, rm, chmod, IO redirection, filters - wc, sort, head, tail, grep,find, piping, hard link, and symbolic link.
