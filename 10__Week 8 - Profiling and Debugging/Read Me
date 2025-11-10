@@ -1,8 +1,0 @@
-Module Description:
-This module introduces the concepts of profiling a program at run-time and debugging it using typical dynamic profilers and debuggers.
-
-Module-level Learning Objectives: 
-By the end of this module, you will be able to:
-- Understand and articulate the difference between static (as in compile-time) vs. dynamic (as in run-time)
-- Profile a reasonably complex program using a profiler
-- Debug a reasonably complex program using a debugger
