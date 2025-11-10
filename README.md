@@ -1,4 +1,4 @@
-# Year 1 - Trimester 1 - Computing Systems T1_25_BDSDF108
+# Computing Systems T1_25_BDSDF108
 
 <b> COURSE INTRODUCTION </b>
 
