@@ -40,6 +40,7 @@ This introductory course provides a cross-sectional understanding of Computing S
 - Experience and Expertise in building novel and complex software solutions across domains (Data Center Automation, Web Engineering, Data Mining and Information Retrieval, Compilers, Parallel & Distributed Data Analytics).
 </p>
 
+<br>
 
 <b> Dr. Biju K. Raveendran Nair </b>
 (Department of Computer Science & Information Systems, BITS Pilani, KK Birla Goa)
