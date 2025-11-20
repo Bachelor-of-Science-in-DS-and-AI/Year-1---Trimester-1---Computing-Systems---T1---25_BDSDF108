@@ -10,21 +10,23 @@
 This introductory course provides a cross-sectional understanding of Computing Systems from a bottom-up perspective - starting with the hardware components of a stand-alone computer, the software (i.e. Operating Systems and virtual environments) that manage such hardware and enable execution of other software (i.e. programs), leading towards the supporting landscape of systems for a high-level programmer (source code repositories, profilers and debuggers, co-processors for offloading niche computation, mobile/embedded computers) and concluding with large-scale computing systems (distributed systems and Cloud Computing).</p>
 
 ✅ <b> Learning Outcomes </b>
-<p align="justify">
+
   - Explain the components - along with their functions - of a computing system/environment.
   - Structure a program so as to leverage the operating system and the execution environment.
   - Design an execution-level modularization of a program to obtain performance using threads, processor cores and GPUs, as well as nodes in a distributed system.
   - Build software by using the development environment's tools (run-time, debugger, profiler, repository, and versioning).
-  - Select and fit an execution environment to deploy an application program. </p>
+  - Select and fit an execution environment to deploy an application program. 
 
 <br>
 
 ✅ <b> Meet Your Instructor </b>
 
   <b> Prof. Shan Sundar Balasubramaniam, </b> (Chief Product Officer, BITS Pilani Digital)
-<p align="justify">
 
 <b> About the Faculty  </b>
+
+<p align="justify">
+
 Computer Scientist by training and practice, Academic in thought and rigor, Product Strategist through a passion for Problem Solving and Computing Systems.
 23+ years as an academic, 4 years in Software industry, 6 years in Consulting.
 Breadth in experience and expertise through challenging projects that were novel in their times.
@@ -45,8 +47,11 @@ Experience and Expertise in building novel and complex software solutions across
 
 <b> About the Faculty </b>
 <p align="justify">
+  
   - Ph.D. Thesis Title: "Energy Efficient Techniques for Multi-tasking Embedded Systems - Cache Design and Task Scheduling Algorithms."
+    
   - Research Interests:   Operating Systems: Real - time / Embedded Operating Systems, High Performance Operating Systems; Low Power Embedded Architecture; Storage Systems; P2P Overlay Networks.
+    
   - Teaching Interests: Operating Systems, Real - time Systems, Computer Architecture, Data Storage Technologies.</p>
 
 <br>
