@@ -275,26 +275,22 @@ This introductory course provides a cross-sectional understanding of Computing S
 
 <br><br>
 
-#### ✅ Week 10: Arrays
+#### ✅ Week 10: Program Execution and Performance Tuning in GPUs
 
 | Lesson No. / Activity | Video / Reading Title | Practice Quiz |
 |--------|-------------|---------------|
-| **Lesson 1: Numpy Arrays** | **Video 1: Module Introduction** |  | 
-| | Video 2: Introduction to Numpy Arrays | Week 10.1: Practice Quiz – Introduction to Numpy Arrays | 
-| | Video 3: Numpy Arrays Vs List | Week 10.1: Practice Quiz – Numpy Arrays Vs List | 
-| | Video 4: Creating Numpy Arrays 1 | Week 10.1: Practice Quiz – Creating Numpy Arrays 1 | 
-| | Video 5: Attributes of Numpy Arrays | Week 10.1: Practice Quiz – Attributes of Numpy Arrays | 
-| | Video 6: Indexing in Numpy Arrays 1 | Week 10.1: Practice Quiz – Indexing in Numpy Arrays 1 | 
-| | Video 7: Indexing in Numpy Arrays 2 | Week 10.1: Practice Quiz – Indexing in Numpy Arrays 2 | 
-| **Lesson 2: Operations on Numpy Arrays** | **Video 1: Arithmetic Operations on Numpy Array 1** | Week 10.2: Practice Quiz – Arithmetic Operations on Numpy Array 1 | 
-| | Video 2: Arithmetic Operations on Numpy Array 2 | Week 10.2: Practice Quiz – Arithmetic Operations on Numpy Array 2 | 
-| | Video 3: Matrix Addition and Multiplication | Week 10.2: Practice Quiz – Matrix Addition and Multiplication | 
-| |  **Reading:** Numpy Arrays: Operations |  |  |
-| **Lesson 3: More on Numpy Arrays** |  **Video 1: Sorting Numpy Arrays 1** | Week 10.3: Practice Quiz – Sorting Numpy Arrays 1 |  
-| | Video 2: Sorting Numpy Arrays 2 | Week 10.3: Practice Quiz – Sorting Numpy Arrays 2 |
-| | Video 2: Statistical Operations | Week 10.3: Practice Quiz – Statistical Operations |
-| |  **Reading:** Sorting and Statistical Operations Using Numpy Arrays |  |  |
-| **Lesson 4: Summary and Assessment** |  | |
+| **Lesson 1: Module Introduction** | **Video 1: Program Execution and Performance Tuning in GPUs** |  | 
+| |**Reading:** Program Execution and Performance Tuning in GPUs | Week 10: Practice Quiz – Module Introduction | 
+| **Lesson 1: Memory Hierarchy in GPUs** | **Video 1: Memory hierarchy in GPUs** | Week 10: Practice Quiz – Memory hierarchy in GPUs | 
+| | **Reading:** Memory Hierarchy in GPUs |  | 
+| **Lesson 2: Canonical Example: Matrix Multiplication** | **Video 1: Canonical Example: Matrix Multiplication** | Week 10: Practice Quiz – Canonical Example: Matrix Multiplication | 
+| | **Reading:** Canonical Example: Matrix Multiplication |  | 
+| **Lesson 3: Typical Neural Network Operations and Performance on GPUs** |  **Video 1: Neural Network Operations on GPUs** | Week 10: Practice Quiz – Neural Network Operations on GPUs |  
+| | Video 2: Performance Analysis on NN Code | Week 10: Practice Quiz – Performance Analysis on NN Code |
+| |  **Reading:** Neural Network Operations on GPUs |  |  |
+| |  **Reading:** Performance Analysis on NN Code |  |  |
+| **Lesson 4: Summary** | **Video 1: Week 9-10 Summary**  | Week 10: Practice Quiz – Module Summary |
+| |  **Reading:** Summary |  |  |
 |  W10: Discussion Prompt | | | | 
 | **Live Session** |  | |
 
