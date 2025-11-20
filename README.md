@@ -21,7 +21,7 @@ This introductory course provides a cross-sectional understanding of Computing S
 
 ✅ <b> Meet Your Instructor </b>
 
-  <b> Prof. Shan Sundar Balasubramaniam, </b> (Chief Product Officer, BITS Pilani Digital)
+  <b> Prof. Shan Sundar Balasubramaniam </b> (Chief Product Officer, BITS Pilani Digital)
 
 <b> About the Faculty  </b>
 
@@ -48,11 +48,11 @@ This introductory course provides a cross-sectional understanding of Computing S
 <b> About the Faculty </b>
 <p align="justify">
   
-  - Ph.D. Thesis Title: "Energy Efficient Techniques for Multi-tasking Embedded Systems - Cache Design and Task Scheduling Algorithms."
+  - <b> Ph.D. Thesis Title:</b> "Energy Efficient Techniques for Multi-tasking Embedded Systems - Cache Design and Task Scheduling Algorithms."
     
-  - Research Interests:   Operating Systems: Real - time / Embedded Operating Systems, High Performance Operating Systems; Low Power Embedded Architecture; Storage Systems; P2P Overlay Networks.
+  - <b> Research Interests:</b>  Operating Systems: Real - time / Embedded Operating Systems, High Performance Operating Systems; Low Power Embedded Architecture; Storage Systems; P2P Overlay Networks.
     
-  - Teaching Interests: Operating Systems, Real - time Systems, Computer Architecture, Data Storage Technologies.</p>
+  - <b> Teaching Interests:</b> Operating Systems, Real - time Systems, Computer Architecture, Data Storage Technologies.</p>
 
 <br>
 
