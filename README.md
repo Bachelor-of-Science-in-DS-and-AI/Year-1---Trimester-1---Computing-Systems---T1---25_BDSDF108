@@ -4,7 +4,7 @@
 
 <b> COURSE INTRODUCTION </b>
 
-✅ Course Description
+✅ <b> Course Description </b>
 
 <p align="justify">
 This introductory course provides a cross-sectional understanding of Computing Systems from a bottom-up perspective - starting with the hardware components of a stand-alone computer, the software (i.e. Operating Systems and virtual environments) that manage such hardware and enable execution of other software (i.e. programs), leading towards the supporting landscape of systems for a high-level programmer (source code repositories, profilers and debuggers, co-processors for offloading niche computation, mobile/embedded computers) and concluding with large-scale computing systems (distributed systems and Cloud Computing).</p>
@@ -24,7 +24,7 @@ This introductory course provides a cross-sectional understanding of Computing S
   <b> Prof. Shan Sundar Balasubramaniam, </b> (Chief Product Officer, BITS Pilani Digital)
 <p align="justify">
 
-About the Faculty  
+<b> About the Faculty  </b>
 Computer Scientist by training and practice, Academic in thought and rigor, Product Strategist through a passion for Problem Solving and Computing Systems.
 23+ years as an academic, 4 years in Software industry, 6 years in Consulting.
 Breadth in experience and expertise through challenging projects that were novel in their times.
@@ -45,10 +45,9 @@ Experience and Expertise in building novel and complex software solutions across
 
 <b> About the Faculty </b>
 <p align="justify">
-- Ph.D. Thesis Title: "Energy Efficient Techniques for Multi-tasking Embedded Systems - Cache Design and Task Scheduling Algorithms."
-- Research Interests:   Operating Systems: Real - time / Embedded Operating Systems, High Performance Operating Systems; Low Power Embedded Architecture; Storage Systems; P2P Overlay Networks.
-- Teaching Interests: Operating Systems, Real - time Systems, Computer Architecture, Data Storage Technologies.</p>
-
+  - Ph.D. Thesis Title: "Energy Efficient Techniques for Multi-tasking Embedded Systems - Cache Design and Task Scheduling Algorithms."
+  - Research Interests:   Operating Systems: Real - time / Embedded Operating Systems, High Performance Operating Systems; Low Power Embedded Architecture; Storage Systems; P2P Overlay Networks.
+  - Teaching Interests: Operating Systems, Real - time Systems, Computer Architecture, Data Storage Technologies.</p>
 
 <br>
 
