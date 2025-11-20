@@ -279,7 +279,7 @@ This introductory course provides a cross-sectional understanding of Computing S
 
 | Lesson No. / Activity | Video / Reading Title | Practice Quiz |
 |--------|-------------|---------------|
-| **Lesson 1: Module Introduction** | **Video 1: Program Execution and Performance Tuning in GPUs** |  | 
+| **Lesson 0: Module Introduction** | **Video 1: Program Execution and Performance Tuning in GPUs** |  | 
 | |**Reading:** Program Execution and Performance Tuning in GPUs | Week 10: Practice Quiz – Module Introduction | 
 | **Lesson 1: Memory Hierarchy in GPUs** | **Video 1: Memory hierarchy in GPUs** | Week 10: Practice Quiz – Memory hierarchy in GPUs | 
 | | **Reading:** Memory Hierarchy in GPUs |  | 
