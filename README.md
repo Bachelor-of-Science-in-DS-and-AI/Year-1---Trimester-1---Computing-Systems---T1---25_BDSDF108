@@ -277,6 +277,17 @@ This introductory course provides a cross-sectional understanding of Computing S
 
 #### ✅ Week 10: Program Execution and Performance Tuning in GPUs
 
+<b> Module Description </b>
+  - This module explores ways to tune the performance of multi-threaded programs on GPUs so that they are scalable with the number of processors (i.e. GPU cores)
+
+<b> Module-level Learning Objectives </b>
+
+By the end of this module, you will be able to:
+  - Understand and articulate critical peformance-affecting aspects of program execution in GPUs
+  - Explain the impact of memory hierarchy in program performance on GPUs
+  - Tune the performance of non-trivial programs on GPUs
+    
+
 | Lesson No. / Activity | Video / Reading Title | Practice Quiz |
 |--------|-------------|---------------|
 | **Lesson 0: Module Introduction** | **Video 1: Program Execution and Performance Tuning in GPUs** |  | 
