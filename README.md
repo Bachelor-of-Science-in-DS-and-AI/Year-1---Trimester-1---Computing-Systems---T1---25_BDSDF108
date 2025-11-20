@@ -32,10 +32,10 @@ This introductory course provides a cross-sectional understanding of Computing S
 - Breadth in experience and expertise through challenging projects that were novel in their times.
 - Expertise and experience in University-level Program Design and Curriculum Design.
 - Depth in specific areas such as Compilers, Logic, and Parallel & Distributed Systems, with particular emphasis on Abstraction and Design.
-- Research Experience: Parallel and Distributed Data Clustering, File Synchronization, Services Architecture and Modelling, Real-Time & Embedded Systems, Information Retrieval and Web Engineering.
-- Current Research Interests: Systems for Efficient and Applied Machine Learning.
-- Teaching Experience: Extensive with several courses (taught over multiple iterations) in both Theoretical Computer Science and Computing Systems.
-- Program Design and Curriculum Design/Development: Extensive within Computer Science and in inter-disciplinary areas (across Computer Science, Electronics & Communication, Design, Humanities & Social Sciences).
+- <b> Research Experience: </b> Parallel and Distributed Data Clustering, File Synchronization, Services Architecture and Modelling, Real-Time & Embedded Systems, Information Retrieval and Web Engineering.
+- <b> Current Research Interests: </b> Systems for Efficient and Applied Machine Learning.
+- <b> Teaching Experience: </b> Extensive with several courses (taught over multiple iterations) in both Theoretical Computer Science and Computing Systems.
+- <b> Program Design and Curriculum Design/Development: </b> Extensive within Computer Science and in inter-disciplinary areas (across Computer Science, Electronics & Communication, Design, Humanities & Social Sciences).
 - Programming experience in Imperative (C/C++), Declarative (Scheme and Prolog), and OO paradigm(C++, Java).
 - Experience and Expertise in building novel and complex software solutions across domains (Data Center Automation, Web Engineering, Data Mining and Information Retrieval, Compilers, Parallel & Distributed Data Analytics).
 </p>
