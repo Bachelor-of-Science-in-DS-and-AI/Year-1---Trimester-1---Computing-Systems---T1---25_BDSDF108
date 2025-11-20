@@ -21,7 +21,7 @@ This introductory course provides a cross-sectional understanding of Computing S
 
 ✅ <b> Meet Your Instructor </b>
 
-  <b> Prof. Shan Sundar Balasubramaniam </b> (Chief Product Officer, BITS Pilani Digital)
+  <b> Late Prof. Shan Sundar Balasubramaniam </b> (Chief Product Officer, BITS Pilani Digital)
 
 <b> About the Faculty  </b>
 
