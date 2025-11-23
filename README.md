@@ -221,12 +221,12 @@ This introductory course provides a cross-sectional understanding of Computing S
  - <b> Module-level Learning Objectives </b>
 
 
-  By the end of this module, you will be able to:
-  
-   - Understand Process model with a clear distinction between Program and Process.
-   - Understand Threads (both user level and kernel level), their concurrency and data sharing.
-   - Improve performance by incorporating optimization techniques like maintaining thread pools and managing zeroed out threads.
-   - Understand various concurrency related issues and how to resolve them with minimum overhead.            
+    By the end of this module, you will be able to:
+
+    - Understand Process model with a clear distinction between Program and Process.
+    - Understand Threads (both user level and kernel level), their concurrency and data sharing.
+    - Improve performance by incorporating optimization techniques like maintaining thread pools and managing zeroed out threads.
+    - Understand various concurrency related issues and how to resolve them with minimum overhead.            
 
 <br>
 
@@ -307,12 +307,12 @@ This introductory course provides a cross-sectional understanding of Computing S
 -  <b> Module-level Learning Objectives </b>
 
 
-  By the end of this module, you will be able to:
+   By the end of this module, you will be able to:
 
-   - Articulate the need for source-code repositories
-   - Explain the typical uses of a code repository for a distributed team of developers
-   - Articulate the need for a versioning system
-   - Explain the typical uses of a versioning system by developers
+    - Articulate the need for source-code repositories
+    - Explain the typical uses of a code repository for a distributed team of developers
+    - Articulate the need for a versioning system
+    - Explain the typical uses of a versioning system by developers
 
 <br>
 
@@ -366,7 +366,7 @@ This introductory course provides a cross-sectional understanding of Computing S
 
 - <b> Module Description </b>
 
-  <p align = "justify"> This module introduces GPUs  as co-processors, and the GPGPU architecture. </p>p
+  <p align = "justify"> This module introduces GPUs  as co-processors, and the GPGPU architecture. </p>
 
 - <b> Module-level Learning Objectives </b>
 
@@ -409,11 +409,11 @@ This introductory course provides a cross-sectional understanding of Computing S
 
   - <b> Module-level Learning Objectives </b>
 
-      By the end of this module, you will be able to:
-    
-        - Understand and articulate critical peformance-affecting aspects of program execution in GPUs
-        - Explain the impact of memory hierarchy in program performance on GPUs
-        - Tune the performance of non-trivial programs on GPUs
+     By the end of this module, you will be able to:
+
+      - Understand and articulate critical peformance-affecting aspects of program execution in GPUs
+      - Explain the impact of memory hierarchy in program performance on GPUs
+      - Tune the performance of non-trivial programs on GPUs
     
 
 | Lesson No. / Activity | Video / Reading Title | Practice Quiz |
