@@ -418,17 +418,17 @@ This introductory course provides a cross-sectional understanding of Computing S
 
 | Lesson No. / Activity | Video / Reading Title | Practice Quiz |
 |--------|-------------|---------------|
-| **Lesson 0: Module Introduction** | **Video 1: Program Execution and Performance Tuning in GPUs** | Week 10: Practice Quiz – Module Introduction | 
+| **Lesson 0: Module Introduction** | **Video 1: Program Execution and Performance Tuning in GPUs** | Week 10.0: Practice Quiz – Module Introduction | 
 | |**Reading:** Program Execution and Performance Tuning in GPUs |  | 
-| **Lesson 1: Memory Hierarchy in GPUs** | **Video 1: Memory hierarchy in GPUs** | Week 10: Practice Quiz – Memory hierarchy in GPUs | 
+| **Lesson 1: Memory Hierarchy in GPUs** | **Video 1: Memory hierarchy in GPUs** | Week 10.1: Practice Quiz – Memory hierarchy in GPUs | 
 | | **Reading:** Memory Hierarchy in GPUs |  | 
-| **Lesson 2: Canonical Example: Matrix Multiplication** | **Video 1: Canonical Example: Matrix Multiplication** | Week 10: Practice Quiz – Canonical Example: Matrix Multiplication | 
+| **Lesson 2: Canonical Example: Matrix Multiplication** | **Video 1: Canonical Example: Matrix Multiplication** | Week 10.2: Practice Quiz – Canonical Example: Matrix Multiplication | 
 | | **Reading:** Canonical Example: Matrix Multiplication |  | 
-| **Lesson 3: Typical Neural Network Operations and Performance on GPUs** |  **Video 1: Neural Network Operations on GPUs** | Week 10: Practice Quiz – Neural Network Operations on GPUs |  
+| **Lesson 3: Typical Neural Network Operations and Performance on GPUs** |  **Video 1: Neural Network Operations on GPUs** | Week 10.3: Practice Quiz – Neural Network Operations on GPUs |  
 | | Video 2: Performance Analysis on NN Code | Week 10: Practice Quiz – Performance Analysis on NN Code |
 | |  **Reading:** Neural Network Operations on GPUs |  |  |
 | |  **Reading:** Performance Analysis on NN Code |  |  |
-| **Lesson 4: Summary** | **Video 1: Week 9-10 Summary**  | Week 10: Practice Quiz – Module Summary |
+| **Lesson 4: Summary** | **Video 1: Week 9-10 Summary**  | Week 10.4: Practice Quiz – Module Summary |
 | |  **Reading:** Summary |  |  |
 |  W10: Discussion Prompt | | | | 
 | **Live Session** |  | |
@@ -452,19 +452,19 @@ This introductory course provides a cross-sectional understanding of Computing S
 
 | Lesson No. / Activity | Video / Reading Title | Practice Quiz |
 |--------|-------------|---------------|
-| **Lesson 0: Module Introduction** | **Video 1: Introduction to Distributed Systems** | Week 10: Practice Quiz – Introduction to Distributed Systems | 
+| **Lesson 0: Module Introduction** | **Video 1: Introduction to Distributed Systems** | Week 11.0: Practice Quiz – Introduction to Distributed Systems | 
 | |**Reading:** Introduction to Distributed Systems |  | 
-| **Lesson 1: The need for a distributed system** | **Video 1: The Need for Distributed Systems** | Week 10: Practice Quiz – The Need for Distributed Systems | 
+| **Lesson 1: The need for a distributed system** | **Video 1: The Need for Distributed Systems** | Week 11.1: Practice Quiz – The Need for Distributed Systems | 
 | | **Reading:** The Need for Distributed Systems |  | 
-| **Lesson 2: What is 'Distributed' in a distributed system?** | **Video 1: "Distributed" in a Distributed System** | Week 10: Practice Quiz – "Distributed" in a Distributed System | 
+| **Lesson 2: What is 'Distributed' in a distributed system?** | **Video 1: "Distributed" in a Distributed System** | Week 11.2: Practice Quiz – "Distributed" in a Distributed System | 
 | | **Reading:** What Gets Distributed in a Distributed System |  | 
-| **Lesson 3: Different types of distributed systems - Client-Server Systems** |  **Video 1: Different Types of Distributed Systems – Client–Server System** | Week 10: Practice Quiz – Different Types of Distributed Systems – Client–Server System |  
+| **Lesson 3: Different types of distributed systems - Client-Server Systems** |  **Video 1: Different Types of Distributed Systems – Client–Server System** | Week 11.3: Practice Quiz – Different Types of Distributed Systems – Client–Server System |  
 | |  **Reading:** Client–Server Systems |  |  |
-| **Lesson 4: Different Types of Distributed Systems - Clusters** |  **Video 1: Different Types of Distributed Systems - Clusters** | Week 10: Practice Quiz – Different Types of Distributed Systems - Clusters |  
+| **Lesson 4: Different Types of Distributed Systems - Clusters** |  **Video 1: Different Types of Distributed Systems - Clusters** | Week 11.4: Practice Quiz – Different Types of Distributed Systems - Clusters |  
 | |  **Reading:** Cluster Computing |  |  |
-| **Lesson 5: Data Distribution** |  **Video 1: Data Distribution in Distributed Systems** | Week 10: Practice Quiz – Data Distribution in Distributed Systems |  
+| **Lesson 5: Data Distribution** |  **Video 1: Data Distribution in Distributed Systems** | Week 11.5: Practice Quiz – Data Distribution in Distributed Systems |  
 | |  **Reading:** Data Distribution in Distributed System |  |  |
-| **Lesson 6: Summary** | **Video 1: Week 9-10 Summary**  | Week 10: Practice Quiz – Module Summary |
+| **Lesson 6: Summary** | **Video 1: Week 9-10 Summary**  | Week 11.6: Practice Quiz – Module Summary |
 | |  **Reading:** Summary |  |  |
 |  W10: Discussion Prompt | | | | 
 | **Live Session** | **Nov 28, 2025 07:40 PM India** | |
