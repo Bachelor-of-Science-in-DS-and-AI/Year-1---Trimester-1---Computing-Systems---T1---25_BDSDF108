@@ -434,3 +434,40 @@ This introductory course provides a cross-sectional understanding of Computing S
 | **Live Session** |  | |
 
 <br><br>
+
+#### ✅ Week 11 : Introduction to Distributed Systems
+  - <b> Module Description </b>
+
+    <p align = "justify"> This module introduces elementary concepts related to systems for distributing data and computation, different ways to structure / architect distributed systems, and data distribution approaches in different scenarios / contexts </p>
+
+  - <b> Module-level Learning Objectives </b>
+
+     By the end of this module, you will be able to:
+
+      - Explain the need for distributed systems
+      - Understand and articulate what is "distributed" in a distributed system
+      - Explain and differentiate between commonly found configurations (or architectures) of distributed systems
+      - Given a computational problem, choose a way of storing data across a distributed system  (i.e. whether to replicate data, partition data, or do  both)
+    
+
+| Lesson No. / Activity | Video / Reading Title | Practice Quiz |
+|--------|-------------|---------------|
+| **Lesson 0: Module Introduction** | **Video 1: Introduction to Distributed Systems** | Week 10: Practice Quiz – Introduction to Distributed Systems | 
+| |**Reading:** Introduction to Distributed Systems |  | 
+| **Lesson 1: The need for a distributed system** | **Video 1: The Need for Distributed Systems** | Week 10: Practice Quiz – The Need for Distributed Systems | 
+| | **Reading:** The Need for Distributed Systems |  | 
+| **Lesson 2: What is 'Distributed' in a distributed system?** | **Video 1: "Distributed" in a Distributed System** | Week 10: Practice Quiz – "Distributed" in a Distributed System | 
+| | **Reading:** What Gets Distributed in a Distributed System |  | 
+| **Lesson 3: Different types of distributed systems - Client-Server Systems** |  **Video 1: Different Types of Distributed Systems – Client–Server System** | Week 10: Practice Quiz – Different Types of Distributed Systems – Client–Server System |  
+| |  **Reading:** Client–Server Systems |  |  |
+| **Lesson 4: Different Types of Distributed Systems - Clusters** |  **Video 1: Different Types of Distributed Systems - Clusters** | Week 10: Practice Quiz – Different Types of Distributed Systems - Clusters |  
+| |  **Reading:** Cluster Computing |  |  |
+| **Lesson 5: Data Distribution** |  **Video 1: Data Distribution in Distributed Systems** | Week 10: Practice Quiz – Data Distribution in Distributed Systems |  
+| |  **Reading:** Data Distribution in Distributed System |  |  |
+| **Lesson 6: Summary** | **Video 1: Week 9-10 Summary**  | Week 10: Practice Quiz – Module Summary |
+| |  **Reading:** Summary |  |  |
+|  W10: Discussion Prompt | | | | 
+| **Live Session** | **Nov 28, 2025 07:40 PM India** | |
+
+<br><br>
+
